@@ -1,0 +1,9 @@
+.rodape{
+    background-image: url('../../assets/img/baner/banerrrrrr.jfif');
+    background-color: #2e0dcd;
+    color: #fdfdfd;
+    text-align: center;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+    font-size: 2rem;
+}
